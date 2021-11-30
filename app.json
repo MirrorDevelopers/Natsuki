@@ -1,7 +1,7 @@
 {
       "name": "Natsuki",
-      "description": "An Anime themed Telegram group management bot Natsuki.",
-      "logo": "https://telegra.ph/file/c9a53e4436c3309a5a5fd.jpg",
+      "description": "An Anime themed Telegram group management bot Masha.",
+      "logo": "https://telegra.ph/file/92ebfb90f029507fb78f0.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Ankivector"
       ],   
-   "repository": "https://github.com/Sadew451/Natsuki",
+   "repository": "https://github.com",
    "addons": [
       {
          "options": {
@@ -20,7 +20,7 @@
    ],
    "buildpacks": [
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://t.me/TeamSingleZ"
     },
     {
       "url": "heroku/python"
@@ -181,5 +181,5 @@
       "Natsuki"
    ],
    "name": "Natsuki",
-   "repository": "https://github.com/Sadew451/Natsuki"
+   "repository": "https://github.com"
 }
