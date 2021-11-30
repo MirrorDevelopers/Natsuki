@@ -1,5 +1,5 @@
-#    Project By TeamNatsuki
-#    Copyright (C) 2020-2021 by @SadewJ
+#    Project By TeamSingleZ 
+#    Copyright (C) 2020-2021 by @IamDarkZ 
 #    This programme is a part of Liza TG bot project
 #
 #    This program is free software: you can redistribute it and/or modify
